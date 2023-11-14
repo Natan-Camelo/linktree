@@ -1,0 +1,32 @@
+@media (max-width: 670px) {
+    main {
+        margin: 50px 10px;
+        padding: 50px;
+    }
+    
+    .foto {
+        max-width: 130px;
+        max-height: 130px;
+    }
+
+    .botao-01 {
+        padding: 5px 50px 5px 50px;
+    }
+
+    .botao-02 {
+        padding: 5px 50px 5px 50px;
+    }
+    .botao-03 {
+        padding: 5px 50px 5px 50px;
+    }
+
+    .botao-04 {
+        padding: 5px 50px 5px 50px;
+    }
+
+    .social-midia li {
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+}

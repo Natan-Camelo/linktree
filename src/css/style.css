@@ -1,0 +1,93 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #BB99DD;
+}
+
+main {
+    background-color: #FAF7FD;
+    margin: 20px 150px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
+}
+
+.foto {
+    display: flex;
+    margin: 0px auto;
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #BB99DD;
+    padding: 5px;
+}
+
+.texto {
+    color: #BB99DD;
+    text-align: center;
+    font-size: 15px;
+}
+
+.link {
+    text-align: center;
+    margin-top: 10px;
+}
+
+ul {
+    list-style: none;
+    padding-top: 5px;
+}
+
+li {
+    padding-bottom: 25px;
+}
+
+.botao-01 {
+    color: #BB99DD;
+    background-color: #FAF7FD;
+    padding: 5px 100px 5px 100px;
+    border-radius: 5px;
+    border: 2px solid #BB99DD;
+}
+
+.botao-02 {
+    color: #BB99DD;
+    background-color: #FAF7FD;
+    padding: 5px 100px 5px 100px;
+    border-radius: 5px;
+    border: 2px solid #BB99DD;
+}
+
+.botao-03 {
+    color: #BB99DD;
+    background-color: #FAF7FD;
+    padding: 5px 100px 5px 100px;
+    border-radius: 5px;
+    border: 2px solid #BB99DD;
+}
+
+.botao-04 {
+    color: #BB99DD;
+    background-color: #FAF7FD;
+    padding: 5px 100px 5px 100px;
+    border-radius: 5px;
+    border: 2px solid #BB99DD;
+}
+
+.social-midia li {
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.social-midia {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.rodape {
+    font-size: 12px;
+    text-align: center;
+}
